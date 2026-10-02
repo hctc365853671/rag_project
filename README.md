@@ -1,4 +1,4 @@
-下面是可以直接复制使用的 **rag_project** README：
+**rag_project** README：
 
 ```markdown
 # 产品知识库智能问答系统（RAG）
