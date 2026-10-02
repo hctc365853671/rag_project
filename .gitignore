@@ -23,3 +23,6 @@ venv/
 # 操作系统垃圾文件
 .DS_Store
 Thumbs.db
+
+# 本地向量库
+chroma_db
